@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Grade_Portal_WS" options="-parameters -Amapstruct.defaultComponentModel=spring -Amapstruct.unmappedTargetPolicy=IGNORE" />
+      <module name="Grade_Portal_WS.main" options="-parameters -Amapstruct.defaultComponentModel=spring -Amapstruct.unmappedTargetPolicy=IGNORE" />
+      <module name="Grade_Portal_WS.test" options="-parameters -Amapstruct.defaultComponentModel=spring -Amapstruct.unmappedTargetPolicy=IGNORE" />
+    </option>
+  </component>
+</project>
